@@ -1,5 +1,5 @@
 # machine_learning_packages
 ---
 This repo contains two machine learning algorithms
-2. polynomial regression
-3. 2. 
+1. polynomial regression
+2. 2. 
